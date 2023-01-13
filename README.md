@@ -1,6 +1,6 @@
 # Data_Visualization_R
 
-I conducted this exploratory data analysis and visualization to the merged datasets to provide useful insights to the production companies: to choose where they should invest their money, filmmakers: to have an overview and good understanding of the industry they’re working in, and viewing audiences in general: to recommend which movies they should watch.
+We conducted this exploratory data analysis and visualization to the merged datasets to provide useful insights to the production companies: to choose where they should invest their money, filmmakers: to have an overview and good understanding of the industry they’re working in, and viewing audiences in general: to recommend which movies they should watch.
 
 There are four primary problems that are imposed that we’re trying to solve, which are:
 
